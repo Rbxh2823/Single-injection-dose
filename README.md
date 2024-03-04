@@ -1,5 +1,5 @@
 # Single-injection-dose
-Result screenshot：
+Result screenshot(part of them)：
 
 ![image](https://github.com/Rbxh2823/Single-injection-dose/assets/162082907/6fa13e48-ba8b-4786-b586-5c6ada187715)
 ![image](https://github.com/Rbxh2823/Single-injection-dose/assets/162082907/d5ca0408-6088-4514-93a4-a01d51e7eee9)
